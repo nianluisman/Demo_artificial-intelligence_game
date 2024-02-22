@@ -6,11 +6,16 @@ contributors  are
 * Marnix Laar. 
 
 ## Objectives
-The main objective is too build game characters that behave realistic in game. In this project we have used the following game mechanics:
+The main objective is to build a game characters that come move phusro realistically. 
+
+##tools 
+* godot 4.
+
+In this project the following game mechanics are implemented in to this demo game:
 * Astar
 * Seek
 * Wander
 * Arrave 
 * State machine 
 * fuzzy logic.
-We also have some documentation See [Doc](./Doc) file. 
+We also have a documentation See [Doc](./Doc) file. 
